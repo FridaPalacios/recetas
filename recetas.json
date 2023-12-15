@@ -1,0 +1,149 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "recetas":[
+        {
+            "source": {
+                "id": null,
+                "name": "RecetasGratis"
+            },
+            "author": "Paola Enciso Gutierrez",
+            "title": "Salpicón estilo Sinaloa",
+            "description": "Si necesitas preparar una receta fácil y, sobre todo, que te saque de un apuro, un exquisito salpicón de res sinaloense será una muy buena opción.",
+            "url": "https://www.recetasgratis.net/receta-de-salpicon-estilo-sinaloa-76995.html",
+            "urlToImage": "https://cdn0.recetasgratis.net/es/posts/5/9/9/salpicon_estilo_sinaloa_76995_600.webp",
+            "publishedAt": "7 noviembre 2023",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "RecetasGratis"
+            },
+            "author": "Paola Enciso Gutierrez",
+            "title": "Tacos al pastor con piña",
+            "description": "Los tacos al pastor son uno de los tacos más populares en México y, se suelen encontrar fácilmente como antojito nocturno. Además, se pueden ver desde su preparación en un trompo asado.",
+            "url": "https://www.recetasgratis.net/receta-de-tacos-al-pastor-con-pina-76981.html",
+            "urlToImage": "https://cdn0.recetasgratis.net/es/posts/1/8/9/tacos_al_pastor_con_pina_76981_600.webp",
+            "publishedAt": "2 noviembre 2023",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "RecetasGratis"
+            },
+            "author": "Paola Enciso Gutierrez",
+            "title": "Cubiletes de crema pastelera",
+            "description": "El cubilete es un pan muy popular en México que se encuentra fácilmente en cualquier panadería en casi en todas las regiones de México. Se trata de una especie de mantecada combinada con pay de queso y galleta que se divide en dos partes: una base que es crujiente, un tipo galleta y un relleno que es muy variado. ",
+            "url": "https://www.recetasgratis.net/receta-de-cubiletes-de-crema-pastelera-76950.html",
+            "urlToImage": "https://cdn0.recetasgratis.net/es/posts/0/5/9/cubiletes_de_crema_pastelera_76950_600.webp",
+            "publishedAt": "",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "RecetasGratis"
+            },
+            "author": "Paola Enciso Gutierrez",
+            "title": "Frijoles charros mexicanos",
+            "description": "Los frijoles charros son un plato típico de la gastronomía mexicana y son muy populares en taquerías del norte de México como entrada, aunque también pueden ser una excelente guarnición.",
+            "url": "https://www.recetasgratis.net/receta-de-frijoles-charros-mexicanos-76884.html",
+            "urlToImage": "https://cdn0.recetasgratis.net/es/posts/4/8/8/frijoles_charros_mexicanos_76884_600.webp",
+            "publishedAt": "4 septiembre 2023",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "RecetasGratis"
+            },
+            "author": "Ana Victoria Vázquez",
+            "title": "Coyotas de Sonora",
+            "description": "Se trata de una especie de galleta o empanada dulce, con forma redonda y rellena de piloncillo u otros ingredientes como mermelada de frutas, cajeta o nueces. ",
+            "url": "https://www.recetasgratis.net/receta-de-coyotas-de-sonora-76848.html",
+            "urlToImage": "https://cdn0.recetasgratis.net/es/posts/8/4/8/coyotas_de_sonora_76848_600.webp",
+            "publishedAt": "16 agosto 2023",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "RecetasGratis"
+            },
+            "author": "Ana Victoria Vázquez",
+            "title": "Caldo de res con verduras",
+            "description": "El caldo de res con verduras es una deliciosa sopa elaborada con carne de res y una variedad de vegetales que pueden cambiar según la región donde se prepare",
+            "url": "https://www.recetasgratis.net/receta-de-caldo-de-res-con-verduras-76824.html",
+            "urlToImage": "https://cdn0.recetasgratis.net/es/posts/4/2/8/caldo_de_res_con_verduras_76824_600.webp",
+            "publishedAt": "21 julio 2023",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "RecetasGratis"
+            },
+            "author": "Ana Victoria Vázquez",
+            "title": "Gorditas de maseca",
+            "description": "Las gorditas de maseca son un delicioso platillo de la cocina mexicana que consiste en tortillas gruesas y redondas rellenas con diversos ingredientes.",
+            "url": "https://www.recetasgratis.net/receta-de-gorditas-de-maseca-76818.html",
+            "urlToImage": "https://cdn0.recetasgratis.net/es/posts/8/1/8/gorditas_de_maseca_76818_600.webp",
+            "publishedAt": "7 agosto 2023",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "RecetasGratis"
+            },
+            "author": "Ana Victoria Vázquez",
+            "title": "Tamales sinaloenses",
+            "description": "Los tamales sinaloenses son una variedad de tamales típicos de un estado del noroeste de México, Sinaloa. Estos tamales se caracterizan por su forma y preparación única, que los distingue de otros tipos de tamales en el país.",
+            "url": "https://www.recetasgratis.net/receta-de-tamales-sinaloenses-76791.html",
+            "urlToImage": "https://cdn0.recetasgratis.net/es/posts/1/9/7/tamales_sinaloenses_76791_600.webp",
+            "publishedAt": "10 julio 2023",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "RecetasGratis"
+            },
+            "author": "Ana Victoria Vázquez",
+            "title": "Marquesitas yucatecas",
+            "description": "Estas son un delicioso postre originario de la región de Yucatán, México. Se trata de una especie de crepa crujiente y dulce similar a una galleta en forma de tubo, esta se enrolla y se rellena con diferentes ingredientes.",
+            "url": "https://www.recetasgratis.net/receta-de-marquesitas-yucatecas-76780.html",
+            "urlToImage": "https://cdn0.recetasgratis.net/es/posts/0/8/7/marquesitas_yucatecas_76780_600.webp",
+            "publishedAt": "6 julio 2023",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "RecetasGratis"
+            },
+            "author": "Ana Victoria Vázquez",
+            "title": "Enchiladas potosinas con papa y zanahoria",
+            "description": "Las enchiladas potosinas con papa y zanahoria son un platillo tradicional de México, originario del estado de San Luis Potosí, de ahí su nombre.",
+            "url": "https://www.recetasgratis.net/receta-de-enchiladas-potosinas-con-papa-y-zanahoria-76764.html",
+            "urlToImage": "https://cdn0.recetasgratis.net/es/posts/4/6/7/enchiladas_potosinas_con_papa_y_zanahoria_76764_600.webp",
+            "publishedAt": "30 junio 2023",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "RecetasGratis"
+            },
+            "author": "Ana Victoria Vázquez",
+            "title": "Cemitas de milanesa",
+            "description": "Las cemitas son un pan blanco típico del estado de Puebla, México. Este es redondo, de tamaño mediano y un poco aplastado, su corteza es crujiente y decorada con ajonjolí.",
+            "url": "https://www.recetasgratis.net/receta-de-cemitas-de-milanesa-76693.html",
+            "urlToImage": "https://cdn0.recetasgratis.net/es/posts/3/9/6/cemitas_de_milanesa_76693_600.webp",
+            "publishedAt": "26 mayo 2023",
+            "content": ""
+        }
+    ]
+}
